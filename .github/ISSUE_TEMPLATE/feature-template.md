@@ -1,7 +1,7 @@
 ---
 name: Feature template
 about: Feature template
-title: "[Feature]"
+title: "[LAH-X][PAGE][Feature]"
 labels: FEATURE
 assignees: ''
 
